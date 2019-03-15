@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameServerExample2B", "GameServerExample2B\GameServerExample2B.csproj", "{B7CDDD95-A187-4296-91CA-4C1E0877ED27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameServerExample2B.Test", "GameServerExample2B.Test\GameServerExample2B.Test.csproj", "{4478996A-D1BE-4D57-A5A1-54073C3F9FEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7CDDD95-A187-4296-91CA-4C1E0877ED27}.Debug|x86.ActiveCfg = Debug|x86
+		{B7CDDD95-A187-4296-91CA-4C1E0877ED27}.Debug|x86.Build.0 = Debug|x86
+		{B7CDDD95-A187-4296-91CA-4C1E0877ED27}.Release|x86.ActiveCfg = Release|x86
+		{B7CDDD95-A187-4296-91CA-4C1E0877ED27}.Release|x86.Build.0 = Release|x86
+		{4478996A-D1BE-4D57-A5A1-54073C3F9FEA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4478996A-D1BE-4D57-A5A1-54073C3F9FEA}.Debug|x86.Build.0 = Debug|Any CPU
+		{4478996A-D1BE-4D57-A5A1-54073C3F9FEA}.Release|x86.ActiveCfg = Release|Any CPU
+		{4478996A-D1BE-4D57-A5A1-54073C3F9FEA}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

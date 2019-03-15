@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{B7CDDD95-A187-4296-91CA-4C1E0877ED27}|Default">
+  <MonoDevelop.Ide.ItemProperties.GameServerExample2B PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GameServerExample2B/FakeClock.cs">
+    <Files>
+      <File FileName="GameServerExample2B/Program.cs" Line="6" Column="6" />
+      <File FileName="GameServerExample2B/Packet.cs" Line="29" Column="10" />
+      <File FileName="GameServerExample2B/IGameTransport.cs" Line="11" Column="35" />
+      <File FileName="GameServerExample2B/GameTransportIPv4.cs" Line="51" Column="29" />
+      <File FileName="GameServerExample2B/GameServer.cs" Line="112" Column="23" />
+      <File FileName="GameServerExample2B/GameClient.cs" Line="66" Column="53" />
+      <File FileName="GameServerExample2B/GameObject.cs" Line="46" Column="53" />
+      <File FileName="GameServerExample2B/Avatar.cs" Line="10" Column="36" />
+      <File FileName="GameServerExample2B/Cube.cs" Line="11" Column="1" />
+      <File FileName="GameServerExample2B.Test/FakeEndPoint.cs" Line="19" Column="30" />
+      <File FileName="GameServerExample2B.Test/FakeTransport.cs" Line="33" Column="40" />
+      <File FileName="GameServerExample2B.Test/TestGameServer.cs" Line="5" Column="2" />
+      <File FileName="GameServerExample2B/IMonotonicClock.cs" Line="9" Column="1" />
+      <File FileName="GameServerExample2B/FakeClock.cs" Line="8" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GameServerExample2B.Test FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
